@@ -21,7 +21,7 @@ const experience: IExperience.Payload = {
           ],
         },
         {
-          projectName: 'Samsung Big Data Center(DX)',
+          projectName: 'Samsung Big Data Center(BDC)',
           projectDetail: [
             'Supported operation of a 30PB-scale Galaxy user log pipeline, enhancing stability and scalability of the data collection and analytics platform',
             'Managed enterprise-wide customer DB and analytics systems, designed DR architecture and incident response processes to ensure service continuity',

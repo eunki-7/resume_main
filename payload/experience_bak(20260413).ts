@@ -11,7 +11,7 @@ const experience: IExperience.Payload = {
       endedAt: '2025-06',
       descriptions: [
         {
-          projectName: 'Samsung Gaming Hub (MX)',
+          projectName: 'Samsung Gaming Hub(MX)',
           projectDetail: [
             'Galaxy Gaming Hub 클라우드 인프라 운영 구조 리딩, 실시간 성능 지표 기반 운영 기준 정의 및 사전 장애 탐지 체계 구축, 서비스 중단 리스크 최소화',
             '실무자부터 C-Level까지 이해관계자 커뮤니케이션 및 의사결정 정렬, 모니터링·이슈 대응 프로세스 구조화로 시스템 안정성 및 사용자 경험 개선',
@@ -19,27 +19,30 @@ const experience: IExperience.Payload = {
           ],
         },
         {
-          projectName: 'Samsung Big Data Center (BDC)',
+          projectName: 'Samsung Big Data Center(BDC)',
           projectDetail: [
-            '30PB 규모 Galaxy 사용자 로그 파이프라인 운영 리딩, 데이터 수집·분석 플랫폼 안정성 및 확장성 기준 정립',
-            '전사 통합 고객 DB 및 분석 시스템 운영 체계 정비 및 DR 설계, 장애 대응 표준 수립으로 서비스 연속성 확보, 데이터 처리 구조 재정비 및 분석 아키텍처 개선',
-            '<b>데이터 거버넌스 및 DR 고도화 로드맵 수립, 단계적 아키텍처 표준화 적용으로 연간 운영비용 8% 절감 및 리소스 효율 15% 향상</b>',
+            '30PB 규모 Galaxy 사용자 로그 파이프라인 운영 리딩. 데이터 수집·분석 플랫폼 안정성 및 확장성 기준 정립',
+            '전사 통합 고객 DB 및 분석 시스템 운영 체계 정비, DR 설계 및 장애 대응 표준 수립. 서비스 연속성 확보',
+            '데이터 처리 구조 재정비 및 분석 아키텍처 개선. 운영 복잡성 감소 및 성능 지표 개선',
+            '<b>데이터 거버넌스·DR 고도화 로드맵 수립 및 단계적 아키텍처 표준화 적용. 연간 운영비용 8% 절감, 리소스 효율 15% 향상</b>',
           ],
         },
         {
-          projectName: 'Samsung Research (SR)',
+          projectName: 'Samsung Research(SR)',
           projectDetail: [
-            '42,000 RPS·4PB 규모 DWH 및 분석 플랫폼 DR 전략 수립 및 Lambda/ECS 기반 전환 방향 정렬, 대규모 서비스 연속성 확보',
-            'Bixby LLM 학습용 멀티 GPU HPC 아키텍처 설계 및 EFA 기반 성능 기준 검증, POC 리딩을 통한 아키텍처 적합성 확보',
-            '<b>GenAI 운영 체계(드리프트·재학습·DevOps) 정립으로 다운타임 10% 감소, AI 학습 인프라 현대화 및 마이그레이션 로드맵 수립, LLM 훈련 효율 20% 개선 및 HPC 운영 표준 적용</b>',
+            '42,000 RPS·4PB 규모 DWH 및 분석 플랫폼 DR 전략 수립. Lambda/ECS 기반 전환 방향 정렬',
+            'Bixby LLM 학습용 멀티 GPU HPC 아키텍처 설계. EFA 기반 성능 기준 검증 및 POC 리딩',
+            'GenAI 모델 드리프트·재학습·DevOps 통합 운영 체계 정립. 시스템 다운타임 10% 감소',
+            '<b>AI 학습 인프라 현대화 전략 및 단계적 마이그레이션 로드맵 수립. LLM 훈련 효율 20% 개선, HPC 운영 표준안 제시 및 채택</b>',
           ],
         },
         {
-          projectName: 'Samsung Digital Appliance (DA)',
+          projectName: 'Samsung Digital Appliance(DA)',
           projectDetail: [
-            '클라우드 보안 거버넌스 정책 정립 및 통제 기준 재정비, 보안 사고 10% 감소',
-            '신규 클라우드 기술 도입 전략 수립 및 아키텍처 표준화·문서 체계 정립, 서비스 비용 10% 절감 및 확장성·운영 효율성 개선',
-            '<b>보안·비용 최적화 정책 로드맵 수립으로 연간 OPEX 5% 절감, 신규 프로젝트 대응 속도 30% 향상</b>',
+            '클라우드 보안 거버넌스 정책 정립 및 보안 통제 기준 재정비. 보안 사고 10% 감소',
+            '신규 클라우드 기술 도입 전략 수립. 서비스 운영 비용 10% 절감 및 확장성 개선',
+            '아키텍처 표준화 및 문서 체계 정립. 재사용성 및 운영 효율성 개선',
+            '<b>보안·비용 최적화 정책 로드맵 수립. 연간 OPEX 5% 절감, 신규 프로젝트 대응 속도 30% 향상</b>',
           ],
         },
         {

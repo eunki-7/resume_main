@@ -11,35 +11,39 @@ const experience: IExperience.Payload = {
       endedAt: '2025-06',
       descriptions: [
         {
-          projectName: 'Samsung Gaming Hub (MX)',
+          projectName: 'Samsung Gaming Hub(MX)',
           projectDetail: [
-            'Led the operating structure of Galaxy Gaming Hub cloud infrastructure, defined performance-based operating standards, and implemented proactive detection mechanisms to minimize service interruption risk',
-            'Aligned stakeholder communication and decision-making from engineering teams to C-level leadership, structuring monitoring and incident response processes to improve system stability and user experience',
-            '<b>Defined a service stabilization roadmap and applied automation to reduce incident response time by ~30%, while structuring collaboration across an approximately 10-member cross-functional team</b>',
+            'Led cloud operations for Galaxy Gaming Hub, establishing performance-based operating standards and refining proactive detection mechanisms to control service interruption risk',
+            'Aligned technical direction for strategic initiatives and long-term programs through stakeholder engagement across engineering teams and executive leadership',
+            'Standardized monitoring and incident response frameworks, institutionalizing proactive response models and improving availability and user experience metrics',
+            '<b>Defined and executed a service stabilization roadmap, expanded automation scope, reduced incident response lead time by 30%, and structured cross-functional operating processes across a 10-member internal and external team</b>',
           ],
         },
         {
-          projectName: 'Samsung Big Data Center (BDC)',
+          projectName: 'Samsung Big Data Center(BDC)',
           projectDetail: [
-            'Led operations of a 30PB-scale Galaxy user log platform, defining stability and scalability standards for data collection and analytics systems',
-            'Structured operating models for enterprise customer data warehouse and analytics systems, including DR design and incident response standards to ensure service continuity, while improving data processing and analytics architecture',
-            '<b>Established a data governance and DR roadmap, driving phased architecture standardization, achieving 8% annual cost reduction and 15% improvement in resource efficiency</b>',
+            'Led operations of a 30PB-scale Galaxy user log platform, defining stability and scalability standards for enterprise data collection and analytics',
+            'Formalized operating models for the enterprise customer data warehouse and analytics systems, establishing DR strategy and incident response standards to ensure service continuity',
+            'Re-architected data processing and analytics structures, reducing operational complexity and improving key performance metrics',
+            '<b>Defined a data governance and DR advancement roadmap, driving phased architecture standardization, achieving 8% annual cost reduction and 15% improvement in resource efficiency</b>',
           ],
         },
         {
-          projectName: 'Samsung Research (SR)',
+          projectName: 'Samsung Research(SR)',
           projectDetail: [
-            'Defined DR strategy for a 42,000 RPS, 4PB-scale DWH and analytics platform, aligning transition toward a Lambda/ECS-based architecture to ensure service continuity',
-            'Designed multi-GPU HPC architecture for Bixby LLM training and validated performance benchmarks using EFA through POC execution',
-            '<b>Established GenAI operational models (drift detection, retraining, DevOps), reducing system downtime by 10%, and defined AI infrastructure modernization and migration roadmap, improving LLM training efficiency by 20% and standardizing HPC operations</b>',
+            'Defined DR strategy for a 42,000 RPS, 4PB-scale DWH and analytics platform, aligning transition direction toward a Lambda/ECS-based architecture',
+            'Architected multi-GPU HPC infrastructure for Bixby LLM training, establishing performance benchmarks and leading EFA-based validation initiatives',
+            'Formalized integrated operating models for GenAI drift detection, retraining, and DevOps alignment, reducing system downtime by 10%',
+            '<b>Established AI infrastructure modernization strategy and phased migration roadmap, improving LLM training efficiency by 20% and institutionalizing HPC operational standards</b>',
           ],
         },
         {
-          projectName: 'Samsung Digital Appliance (DA)',
+          projectName: 'Samsung Digital Appliance(DA)',
           projectDetail: [
             'Established cloud security governance policies and refined control standards, contributing to a 10% reduction in security incidents',
-            'Defined cloud technology adoption strategy and standardized architecture and documentation frameworks, achieving 10% cost reduction and improved scalability and operational efficiency',
-            '<b>Developed a security and cost optimization roadmap, achieving a 5% annual OPEX reduction and improving new project response time by 30%</b>',
+            'Defined technology adoption strategy for new cloud capabilities, achieving a 10% reduction in service operating costs and improved scalability',
+            'Formalized architecture standardization and documentation frameworks, enhancing reusability and operational efficiency',
+            '<b>Developed security and cost-optimization roadmaps, driving cross-functional alignment, resulting in a 5% annual OPEX reduction and 30% improvement in new project response time</b>',
           ],
         },
         {
